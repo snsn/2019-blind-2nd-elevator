@@ -1,7 +1,7 @@
 import requests
 
 
-url = 'http://localhost:8000'
+url = 'http://localhost:9999'
 
 
 def start(user, problem, count):
